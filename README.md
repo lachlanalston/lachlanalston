@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-FOSS Advicate
+FOSS & Suckless Advicate
+
 Currently studying at University of Technology Sydney
 
 Bachelor of Science in IT
