@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+Currently studying at University of Technology Sydeny
+Bachelor of Science in IT
+Website: alston.xyz
+
+lachlan@alston.xyz
+
+
 <!--
 **lachlanalston/lachlanalston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
