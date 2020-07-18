@@ -1,6 +1,6 @@
 Lachlan Alston
 
-FOSS & Suckless advocate
+FOSS & Suckless Advocate
 
 University of Technology Sydney Undergrad
 
