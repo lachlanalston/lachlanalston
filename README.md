@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 
-Currently studying at University of Technology Sydeny\n
-Bachelor of Science in IT\n
-Website: alston.xyz\n
+Currently studying at University of Technology Sydeny
+
+Bachelor of Science in IT
+
+Website: alston.xyz
 
 lachlan@alston.xyz
 
