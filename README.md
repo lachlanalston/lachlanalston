@@ -1,11 +1,13 @@
-#Lachlan Alston
-##FOSS & Suckless Advicate
+Lachlan Alston
+FOSS & Suckless Advicate
 
-##Currently studying at University of Technology Sydney
-###Bachelor of Science in IT
+Currently studying at University of Technology Sydney
 
-##Website: alston.xyz
-##lachlan@alston.xyz
+Bachelor of Science in IT
+
+Website: alston.xyz
+
+lachlan@alston.xyz
 
 
 <!--
