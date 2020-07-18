@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-
-Currently studying at University of Technology Sydeny
+FOSS Advicate
+Currently studying at University of Technology Sydney
 
 Bachelor of Science in IT
+
 Website: alston.xyz
 
 
