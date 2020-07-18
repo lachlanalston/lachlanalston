@@ -2,7 +2,7 @@ Lachlan Alston
 
 FOSS & Suckless Advicate
 
-Undergrad University of Technology Sydney
+University of Technology Sydney Undergrad
 
 Bachelor of Science in IT
 
