@@ -20,6 +20,6 @@ I’m an IT professional with over three years of experience, specializing in ne
 
 - **FOSS**: Promoting and contributing to open-source software.  
 - **Suckless**: Advocating for simple and efficient software solutions.  
-- **PBX & VoIP**: Working with open-source PBX and VoIP technologies.  
+- **PBX & VoIP**: Working with PBX and VoIP technologies.  
 - **Automation & Scripting**: Streamlining IT operations and troubleshooting.  
 - **Cybersecurity & Networking**: Building secure and scalable network systems.
