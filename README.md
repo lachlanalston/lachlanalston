@@ -1,27 +1,19 @@
 Lachlan Alston
 
 FOSS & Suckless Advocate
+IT Professional
+Bachelor of Science in IT, University of Technology Sydney
+3+ years of experience in the IT industry
 
-University of Technology Sydney Undergrad
+📧 Email: lachlan@alston.id.au
+About Me
 
-Bachelor of Science in IT
+I’m an IT professional with over three years of experience, specializing in network infrastructure, VoIP (phone systems), and IT solutions. I focus on delivering secure, reliable, and scalable systems with an emphasis on automation, cybersecurity, and simplifying complex IT challenges.
 
-Website: alston.xyz
+Key Interests
 
-lachlan@alston.xyz
-
-
-<!--
-**lachlanalston/lachlanalston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    FOSS: Promoting and contributing to open-source software.
+    Suckless: Advocating for simple and efficient software solutions.
+    PBX & VoIP: Working with open-source PBX and VoIP technologies.
+    Automation & Scripting: Streamlining IT operations and troubleshooting.
+    Cybersecurity & Networking: Building secure and scalable network systems.
